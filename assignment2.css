@@ -1,0 +1,288 @@
+.container{
+    width: 1966px;
+    
+  
+    
+    color:white;
+  }
+  .circle{
+    position: absolute;
+    background-color:white;
+    border-radius: 70px;
+    width: 110px;
+    height: 110px;
+    margin: -360px 500px 200px 480px;
+    z-index: 3;
+   
+    
+  }
+  .e {
+    width: 68px;
+    height: 99px;
+    font-family: Poppins;
+    font-size: 70px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+    padding-left: 30px;
+     
+  }
+  .overlay{
+    position: absolute ;
+    width:84.5%;
+    height: 60%;
+    margin: 0 0 48px;
+    padding: 17px 101px 81px 306px;
+    background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4f0707);
+    z-index: 2;
+  }
+  .Login {
+    position: absolute;
+    float:right;
+    width: 43px;
+    height: 23px;
+    margin: -375px 26px 11px 800px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color:white;
+    z-index: 3;
+  }
+  .Rectangle{
+    position:absolute;
+    width: 181px;
+    height: 40px;
+    margin: -380px 0 0 880px;
+    
+    border-radius: 3px;
+    border: solid 1px white;
+    padding :7px 0px 0px 19px;
+    z-index: 3;
+  }
+  .Create-an-account {
+
+    float: none;
+    
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color:white;
+
+  }
+  .Find-the-best-restaurants-cafs-and-bars {
+    position:absolute;
+    width: 754px;
+    height: 51px;
+    margin: -250px 205px 38px 220px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    z-index: 3;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .Rectangle-2 {
+    position: absolute;
+    width: 240px;
+    height: 40px;
+    margin: -180px 21px 0 220px;
+    padding: 21px 33px 40px 23px;
+    background-color:white;
+    z-index: 3;
+  }
+  .Please-type-a-location {
+    width: 165px;
+    height: 21px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+  }
+  .Rectangle-3 {
+    position: absolute;
+    width: 477px;
+    height: 60px;
+    margin: -180px 0 0 500px;
+    padding: 28px 0px 18px 24px;
+    background-color: #fff;
+    z-index: 3;
+  }
+  
+  .Search-for-restaurants{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: left;
+    line-height: 1.3;
+  
+    font-style: normal;
+    
+    letter-spacing: normal;
+    
+    color: #636f88;
+  }
+
+  .seaerch {
+    width: 17px;
+    height: 17px;
+    margin: 2px 19px 2px 0;
+    opacity: 0.97;
+    background-color: #74819e;
+  }
+   .Quick-Searches {
+    position: relative fixed;
+    width: 239px;
+    height: 43px;
+    margin: 1px 504px 509px 200px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    
+    font-style: normal;
+  
+    letter-spacing: normal;
+    
+    color: #192f60;
+  }
+  .Discover-restaurants-by-type-of-meal {
+    position: relative fixed;
+    width: 331px;
+    height: 25px;
+    margin: 7px 59px 33px 200px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: left;
+    
+    font-style: normal;
+    
+    letter-spacing: normal;
+    
+    color: #8c96ab;
+  }
+  .block1{
+    width: 300px;
+    height: 140px;
+    margin: 5px 30px 26px 170px;
+    padding: 0 34px 0 0;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+  }
+  .block2{
+    position: relative;
+    width: 300px;
+    height: 140px;
+    margin: 5px 30px 26px 260px;
+    padding: 0 34px 0 0px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+  }
+  .block3{
+    position: relative;
+    width: 300px;
+    height: 140px;
+    margin: 5px 30px 26px 350px;
+    padding: 0 34px 0 0px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+  }
+  .block4 {
+    position: absolute;
+    width: 300px;
+    height: 140px;
+    margin: 150px 30px 20px -485px;
+    padding: 0 34px 0 0;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+  }
+  .block5 {
+    position: relative;
+    width: 300px;
+    height: 140px;
+    margin: 150px 30px 0 -387px;
+    padding: 0 34px 0 0;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+  }
+  .block6{
+    position: relative;
+    width: 300px;
+    height: 140px;
+    margin: 150px 30px 0 -290px;
+    padding: 0 34px 0 0;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+  }
+  .shutterstock_1154073754 {
+    width: 140px;
+    height: 140px;
+    margin: 0 29px 0 0;
+  
+  }
+  .Breakfast {
+    position: relative;
+    float: right;
+    width: 88px;
+    height: 25px;
+    margin: -130px 9px 4px 189px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .Start-your-day-with-exclusive-breakfast-options {
+    float: right;
+    width: 137px;
+    height: 62px;
+    margin: -100px -40px 44px 189px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  
+  .Dinner{
+    float: right;
+    width: 137px;
+    height: 62px;
+    margin: 5px -50px 44px 195px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  
